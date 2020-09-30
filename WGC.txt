@@ -1,3 +1,10 @@
 What type of things do I need in my First page(Hompage, Landpage)of my website:
-Images, text, audio, and some videos.
+1. Homepage( Lists the categories of music playlists) 2. Secondary pages when I click at the first page (Subsidiary pages) 
+1. Hompage 
+Should include images, text, audio, and some videos.
 I need images that show my webiste is a music website. ( like pictures of headphones, mp3 player) This would go on first pages to get visitors' attentions with images.
+Logo would be purple color with these images and It should go to the homepage whenever I click the logo at Subsidiary pages or Landing pages.
+Categories in homepage must have different color in each of them. It could be rainbow colors.
+Subsidiary pages should share the same main color of the homepage(which is purple). 
+It's from Landing page so It should have the same color of the category I've chosen.
+
